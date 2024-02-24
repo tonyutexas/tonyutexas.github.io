@@ -1,0 +1,24 @@
+a:hover {
+    color:gray
+}
+.center-tags {
+    text-align: center;
+}
+h1 {
+    color: blue;
+}
+.custom-h2 {
+    font-weight: bold;
+    text-decoration: underline;
+    font-style: italic;
+}
+.custom-h2:after {
+    content: ":";
+}
+.job {
+    padding-left: 20px
+}
+#img1 {
+    max-height: 600px;
+    width: auto;
+}
